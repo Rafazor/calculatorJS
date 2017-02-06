@@ -1,5 +1,5 @@
 # calculatorJS
-## My implementation of a basic digital calculator.
+My implementation of a basic digital calculator.
 
 ![alt text](screenshot/calculatorScreen.PNG "Basic Math Operations")
 ##
