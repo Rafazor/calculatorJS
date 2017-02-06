@@ -8,5 +8,5 @@ My implementation of a basic digital calculator.
 
 ## Todos
 - Add logic for the "CE" button
-- Refactor the code
+- Refactor the code (most important)
 - Test the app for possible bugs
